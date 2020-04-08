@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/glaiml/capstone/blob/master/capstone-vgk.ipynb)
+
 # capstone
 
 AUTOMATIC TICKET ASSIGNMENT
@@ -6,7 +8,6 @@ Manual assignment of incidents is time consuming and requires human efforts. The
 
 In the support process, incoming incidents are analyzed and assessed by organization’s support teams to fulfill the request. In many organizations, better allocation and effective usage of the valuable support resources will directly result in substantial cost savings.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/glaiml/capstone/blob/master/capstone-vgk.ipynb)
 
 ## Data
 https://drive.google.com/file/d/1OZNJm81JXucV3HmZroMq6qCT2m7ez7IJ
